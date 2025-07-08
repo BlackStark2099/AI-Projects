@@ -3,6 +3,13 @@ PDF-extractor/.env
 QnA-chat-bot/venv/
 QnA-chat-bot/.env
 PDF-doc-reader/venv/
-PDF-doc-reader/.env/
+PDF-doc-reader/.env
 PDF-doc-reader/faiss_index/
+DOC-reader-using-gemma/.env
+DOC-reader-using-gemma/venv/
+Image-extractor/venv/
+Image-extractor/.env
+Text-to-sql/venv/
+Text-to-sql/.env
+Text-to-sql/student.db
 .DS_Store

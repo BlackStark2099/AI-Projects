@@ -1,0 +1,9 @@
+faiss-cpu #for vector embedding
+groq
+langchain-groq  #nice tool for buiding GENAI application
+PyPDF2
+langchain
+langchain_google_genai
+langchain_community 
+python-dotenv
+pypdf

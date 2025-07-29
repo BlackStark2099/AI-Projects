@@ -12,4 +12,8 @@ Image-extractor/.env
 Text-to-sql/venv/
 Text-to-sql/.env
 Text-to-sql/student.db
+ATS-Resume/.env
+ATS-Resume/venv/
+youtube-transciber/.env
+youtube-transciber/venv/
 .DS_Store
